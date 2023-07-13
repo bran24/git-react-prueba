@@ -7,6 +7,7 @@ export default function Dashboard() {
   };
   return (
     <div>
+      {/* hola mundo */}
       <h1>Dasboard</h1>
       <button onClick={handleClick}>Logout</button>
       <br />
